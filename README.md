@@ -22,35 +22,6 @@ O sistema possui um menu interativo que permanece em execução até que o usuá
 
 - Python 3
 
-## Estrutura do projeto
-
-```
-controle-estoque/
-│
-├── estoque.py
-└── README.md
-```
-
-## Como executar
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/seu-usuario/controle-estoque.git
-```
-
-2. Acesse a pasta do projeto:
-
-```bash
-cd controle-estoque
-```
-
-3. Execute o programa:
-
-```bash
-python estoque.py
-```
-
 ## Exemplo de uso
 
 ```
